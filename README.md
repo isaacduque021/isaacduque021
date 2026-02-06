@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">Estudante de Desenvolvimento de Sistemas, com foco em boas práticas de programação, organização de código e construção de soluções escaláveis. Possuo base em lógica de programação, orientação a objetos e estruturação de aplicações. Atuo com Python, Html e Css. </p>
+<p align="left">Systems Development student with knowledge of programming logic and object-oriented concepts. Develops applications using Python, HTML, and CSS, with a focus on code organization and best practices.</p>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social networks:</h3>
 <p align="left">
 <a href="https://instagram.com/_.baastos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.baastos" height="30" width="40" /></a>
 </p>
