@@ -20,7 +20,7 @@
 <h3 align="left">🤖 My social networks:</h3>
 <p align="left">
 <a href="https://instagram.com/_.baastos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.baastos" height="30" width="40" /></a>
-<a href="<a href="https://linkedin.comisaac-duque-estrada-bastos-48386622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-duque-estrada-bastos-48386622a" height="30" width="40" />" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-duque-estrada-bastos-48386622a" height="30" width="40" />
+<a href="https://linkedin.com/in/isaac-duque-estrada-bastos-48386622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-duque-estrada-bastos-48386622a" height="30" width="40" />
 </p>
 
 ###
