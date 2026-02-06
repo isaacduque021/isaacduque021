@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f00&section=header"/>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY5M2l2bmRjMDN2djFnODd5eW10YTFmMjd5OXdrM3lsODhtbHlweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7JqCZCuwEYdry/giphy.gif"  />
+  <img height="150" src="https://i.pinimg.com/736x/64/3c/0b/643c0b0220608282a4b00504f7811780.jpg"  />
 </div>
 
 ###
