@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f00&section=header"/>
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/02/32/ff/0232ff69e1debd8ac950bbebc1034be1.gif"  />
+  <img height="150" src="https://i.pinimg.com/736x/3a/13/21/3a1321dfcf47824ee06a39bd3d495033.jpg"  />
 </div>
 
 ###
