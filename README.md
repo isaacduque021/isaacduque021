@@ -5,15 +5,15 @@
 
 ###
 
-<h1 align="center">Hi there! I'm Isaac Duque</h1>
+<h1 align="center">Olá! Eu sou Isaac Duque</h1>
 
 ###
 
-<h3 align="left">a full stack development student from brazil👨🏽‍💻</h3>
+<h3 align="left">Um estudante de desenvolvimento full stack do brasil👨🏽‍💻</h3>
 
 ###
 
-<p align="left">Systems Development student with knowledge of programming logic and object-oriented concepts. Develops applications using Python, HTML, and CSS, with a focus on code organization and best practices.</p>
+<p align="left">Estudante de Desenvolvimento de Sistemas com conhecimento de lógica de programação e conceitos orientados a objetos. Desenvolve sites usando Python, HTML e CSS, com foco na organização do código e nas melhores práticas.</p>
 
 ###
 
